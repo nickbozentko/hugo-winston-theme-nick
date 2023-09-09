@@ -1,14 +1,11 @@
-name = "Hugo Winston"
+name = "Nicks Hugo Winston"
 license = "MIT"
-licenselink = "https://github.com/zerostaticthemes/hugo-winston/blob/master/LICENSE"
+licenselink = "https://github.com/nickbozentko/hugo-winston-theme-nick/blob/master/LICENSE"
 description = "Hugo Winston is a bold minimal blogging theme"
 
-homepage = "https://github.com/zerostaticthemes/hugo-winston-theme"
-demosite = "https://hugo-winston.netlify.app"
-
-tags = ["blog", "minimal", "clean", "zerostatic"]
-features = ["blog"]
+homepage = "https://github.com/nickbozentko/hugo-winston-theme-nick"
+demosite = "https://blog.nickboz.dev"
 
 [author]
-  name = "Robert Austin"
-  homepage = "https://www.zerostatic.io"
+  name = "Nicholas Bozentko"
+  homepage = "https://nickboz.dev"
