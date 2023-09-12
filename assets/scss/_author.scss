@@ -8,7 +8,12 @@
     border-radius: 50%;
     display: inline-block;
     vertical-align: middle;
-    border: 2px solid var(--heading-color);
+    border: 3px solid var(--highlight-color);
+    background-color: var(--heading-color);
+    transition: 0.25s;
+    &:hover {
+      transform: scale(1.2);
+    }
   }
   .author-name {
     display: inline-block;
